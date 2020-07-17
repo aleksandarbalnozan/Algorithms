@@ -1,0 +1,14 @@
+A:\Portfolio\VisualizationBubbleSort\bin\Debug\netcoreapp3.1\VisualizationBubbleSort.exe
+A:\Portfolio\VisualizationBubbleSort\bin\Debug\netcoreapp3.1\VisualizationBubbleSort.deps.json
+A:\Portfolio\VisualizationBubbleSort\bin\Debug\netcoreapp3.1\VisualizationBubbleSort.runtimeconfig.json
+A:\Portfolio\VisualizationBubbleSort\bin\Debug\netcoreapp3.1\VisualizationBubbleSort.runtimeconfig.dev.json
+A:\Portfolio\VisualizationBubbleSort\bin\Debug\netcoreapp3.1\VisualizationBubbleSort.dll
+A:\Portfolio\VisualizationBubbleSort\bin\Debug\netcoreapp3.1\VisualizationBubbleSort.pdb
+A:\Portfolio\VisualizationBubbleSort\obj\Debug\netcoreapp3.1\VisualizationBubbleSort.Form1.resources
+A:\Portfolio\VisualizationBubbleSort\obj\Debug\netcoreapp3.1\VisualizationBubbleSort.csproj.GenerateResource.cache
+A:\Portfolio\VisualizationBubbleSort\obj\Debug\netcoreapp3.1\VisualizationBubbleSort.AssemblyInfoInputs.cache
+A:\Portfolio\VisualizationBubbleSort\obj\Debug\netcoreapp3.1\VisualizationBubbleSort.AssemblyInfo.cs
+A:\Portfolio\VisualizationBubbleSort\obj\Debug\netcoreapp3.1\VisualizationBubbleSort.csproj.CoreCompileInputs.cache
+A:\Portfolio\VisualizationBubbleSort\obj\Debug\netcoreapp3.1\VisualizationBubbleSort.dll
+A:\Portfolio\VisualizationBubbleSort\obj\Debug\netcoreapp3.1\VisualizationBubbleSort.pdb
+A:\Portfolio\VisualizationBubbleSort\obj\Debug\netcoreapp3.1\VisualizationBubbleSort.genruntimeconfig.cache
